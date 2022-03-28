@@ -1,1 +1,2 @@
 # medicine-info
+java programmig !
